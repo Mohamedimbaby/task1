@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="font_small">8sp</dimen>
+    <dimen name="space_large">24dp</dimen>
+    <dimen name="space_huge">64dp</dimen>
+    <dimen name="action_bar_size">120dp</dimen>
+    <dimen name="semi_size">10sp</dimen>
+</resources>

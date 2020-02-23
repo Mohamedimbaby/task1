@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="Hotspots">Hotspots</string>
+    <string name="ViewAll">View all</string>
+    <string name="Events">Events</string>
+    <string name="Attractions">Attractions</string>
+</resources>
